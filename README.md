@@ -1,8 +1,8 @@
-# Automatic Multiple Disease Prediction System 🩺🤖
+# Automatic Multiple Disease Prediction System 
 
 This project is a machine learning-based web application that predicts the likelihood of multiple diseases based on user-input symptoms. It serves as a health assistance tool for early-stage diagnosis support and education.
 
-## 🚀 Features
+##  Features
 
 - Predicts the possibility of multiple diseases like:
   - Diabetes
